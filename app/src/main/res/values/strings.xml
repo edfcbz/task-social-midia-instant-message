@@ -1,0 +1,49 @@
+<resources>
+    <string name="app_name">Hello</string>
+    <string name="registerButton">Register</string>
+    <string name="validationText">Validation</string>
+    <string name="botao_validar">Validate</string>
+    <string name="label_type_name">Type your name</string>
+    <string name="sms_message">Confirmation message</string>
+    <string name="sms_send_sucess">SMS sent with sucess</string>
+    <string name="sms_send_fail">SMS don\'t sent. Try later again</string>
+    <string name="permissionDenied">Permissions Denied</string>
+    <string name="messagePermissionDenied">Please, to use this app you need accept the permission</string>
+    <string name="confirm">Accept</string>
+    <string name="tokenValueSucess">Validated token</string>
+    <string name="tokenValueFailed">Invalid token</string>
+    <string name="messageInformingSmsTokenReceived">You received a SMS message to validation your number, type the validation code below.</string>
+    <string name="typeCode">Type the code</string>
+    <string name="type_your_email">Type your e-mail</string>
+    <string name="type_your_password">Type your password</string>
+    <string name="login">Login</string>
+    <string name="inviteCreateAccount">Don\'t have account? Create it!</string>
+    <string name="typeYourName">Type your name</string>
+    <string name="logut">Logout</string>
+    <string name="toolbarTitle">Hello</string>
+    <string name="userLogedWithSuccess">User loged with success</string>
+    <string name="invalidEmail">Invalid e-mail</string>
+    <string name="invalidPassword">Invalid password</string>
+    <string name="loginGeneralError">General erro. Try later</string>
+    <string name="item_configuracoes">Settings</string>
+    <string name="research">Research</string>
+    <string name="add">Add</string>
+    <string name="userLogoutWithSucess">User logout with success</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="addNewContact">Add new contact</string>
+    <string name="userEmail">User\'s E-mail</string>
+    <string name="cancel">Cancel</string>
+    <string name="userDoesntExist">User doesn\'t exist</string>
+    <string name="errorConnection">Error connection</string>
+    <string name="informMessage">Type message.</string>
+    <string name="UserRegistedWithSucess">User successfully registered</string>
+    <string name="users">users</string>
+    <string name="toolBarTitle">Hello</string>
+    <string name="registerUserError">Error registering user. Try later.</string>
+    <string name="usedEmail">E-mail already used</string>
+    <string name="weakPassword">Weak password, create password with numbers, letters and special characters</string>
+    <string name="conversation">CONVERSATION</string>
+    <string name="contacts">CONTACTS</string>
+</resources>

@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/colorPrimary"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    tools:context="br.com.android.portfolio.whatsappclone.whatsappclone.activity.ValidatorActivity">
+
+    <ImageView
+        android:id="@+id/imageView2"
+        android:layout_width="@dimen/largura_logo"
+        android:layout_height="154dp"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:background="@drawable/logo" />
+
+    <TextView
+        android:id="@+id/textViewValidation"
+        android:layout_width="200dp"
+        android:layout_height="51dp"
+        android:layout_above="@+id/textViewAlertMessage"
+        android:layout_centerHorizontal="true"
+        android:layout_marginBottom="-223dp"
+        android:gravity="center"
+        android:text="@string/validationText"
+        android:textColor="@color/textColorPrimary"
+        android:textSize="28sp" />
+
+    <TextView
+        android:id="@+id/textViewAlertMessage"
+        android:layout_width="wrap_content"
+        android:layout_height="49dp"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentTop="true"
+        android:layout_marginEnd="0dp"
+        android:layout_marginTop="223dp"
+        android:gravity="center"
+        android:text="@string/messageInformingSmsTokenReceived"
+        android:textColor="@color/textColorPrimary" />
+
+    <EditText
+        android:id="@+id/editTextCodeValidationId"
+        android:layout_width="140dp"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginBottom="195dp"
+        android:ems="10"
+        android:gravity="center"
+        android:hint="@string/typeCode"
+        android:inputType="number"
+        android:maxLength="4"
+        android:textColor="@color/textColorPrimary"
+        android:textColorHint="@color/textColorPrimary" />
+
+    <Button
+        android:id="@+id/buttonVerifyId"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginBottom="136dp"
+        android:background="@color/colorPrimaryDark"
+        android:text="@string/botao_validar"
+        android:textColor="@color/textColorPrimary" />
+
+</RelativeLayout>

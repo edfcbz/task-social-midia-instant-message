@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">WhatsApp</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="item_configuracoes">Configurações</string>
+    <string name="item_sair">Sair</string>
+    <string name="title_activity_login">LoginActivity</string>
+    <string name="botao_cadastrar">Cadastrar</string>
+    <string name="title_activity_validador">ValidadorActivity</string>
+    <string name="texto_validacao">Validação</string>
+    <string name="botao_validar">Validar</string>
+    <string name="botao_logar">Logar</string>
+    <string name="texto_cadastre">Não tem conta? Cadastre-se</string>
+    <string name="title_activity_cadastro_usuario">CadastroUsuarioActivity</string>
+</resources>

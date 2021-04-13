@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "794072893577",
+    "firebase_url": "https://whatsappaulaprojeto.firebaseio.com",
+    "project_id": "whatsappaulaprojeto",
+    "storage_bucket": "whatsappaulaprojeto.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:794072893577:android:7d8af483cc33d8c3",
+        "android_client_info": {
+          "package_name": "whatsapp.cursoandroid.com.whatsapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "794072893577-ic6hpfo5dfkv158i1fbmua293b88js6v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDLrVkDD4l91RGUNMNc0QVEMhz7KDSXVXw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
