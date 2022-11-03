@@ -5,5 +5,7 @@ A mobile app for Android for message
 
 ## Main Technologies
 Android Studio IDE  
-Database NoSQL
+Database NoSQL  
+Java 1.8
+
 
